@@ -31,7 +31,7 @@ with open("%slast-names" % PASSENGER_ROOT) as file_in:
 
 
 # Non man is 0 and non woman is 1
-def create_passengers(quantity=10):
+def generate_passengers(quantity=10):
     passenger_json = []
     i = 1
     passenger_names = set()
@@ -49,13 +49,12 @@ def create_passengers(quantity=10):
             gender = genders[randint(0, len(genders) - 1)]
         passenger = {}
         passenger.update({"id": i})
-        passenger.update({"first_name": first_name})
-        passenger.update({"last_name": last_name})
+        passenger.update({"firstName": first_name})
+        passenger.update({"lastName": last_name})
         passenger.update({"gender": gender})
         passenger_json.append(passenger)
         i += 1
     return passenger_json
 
-
-passengers = create_passengers(70)
+passengers = generate_passengers(70)
 print(json.dumps(passengers))
