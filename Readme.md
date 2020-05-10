@@ -70,6 +70,8 @@ Steps:
 4.   If you only have one suspect. Then congratulations you have found the murderer.
 5.   Type your answer in the following format `firstName` + ` ` + `lastName`
 
+Note that the story I’ve created is purely fictional. Any similarity between events and the characters generated and the locations described is purely coincidental. It is practically impossible to make a random scenario that doesn’t have anything in common with anyone’s personal life. This is the reason why it is so important that the reader of this article understands that. This is also the reason why all the names in this exercise are automatically randomly generated, precisely to reduce the possibility of such similarities to occur.
+
 ## Modules
 
 -   [bl-central-server](./bl-central-server): The central server containing all centralizable data

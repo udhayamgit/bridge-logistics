@@ -9,16 +9,19 @@ Nijenhuis
 Seminova
 Fernandes
 Antoinette
+van den Brug
 Sanchéz
 de Laat
 Bruce
 de Vis
+Veltman
 Kaba
 von Hayek
 Toma
 Stuurman
 Mascarenhas
 Joschi
+de Koe
 van der Steen
 Flanders
 Manders
@@ -35,8 +38,10 @@ Bovaird
 Liu
 Ortiz
 Wagenaar
+Vicente
 Lopez
 Jansen
+Vidal
 Venter
 Rodrigues
 Venster
@@ -45,6 +50,7 @@ de Groot
 Pereira
 Antunes
 Ferreira
+Milosevitch
 Maria
 Peter
 do Ó
